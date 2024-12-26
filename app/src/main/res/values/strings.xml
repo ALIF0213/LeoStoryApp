@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LeoStoryApp</string>
+    <string name="email">Email</string>
+    <string name="app_logo">App Logo</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="permission_denied_message">Camera permission is required to use this feature.</string>
+    <string name="empty_fields_warning">Please provide an image and a description before uploading.</string>
+    <string name="error_create_image">Failed to create image file. Please try again.</string>
+    <string name="error_camera">Failed to capture image. Please try again.</string>
+    <string name="empty_image_warning">Please select or capture an image before uploading.</string>
+    <string name="upload_success">Story uploaded successfully!</string>
+    <string name="upload_failed">Failed to upload the story. Please try again later.</string>
+    <string name="btn_choose_gallery">Choose from Gallery</string>
+    <string name="btn_take_camera">Take from Camera</string>
+    <string name="btn_upload_story">Upload Story</string>
+    <string name="hint_description">Enter description here...</string>
+    <string name="tambah_cerita_baru">Tambah Cerita Baru</string>
+    <string name="pilih_dari_galeri">Pilih dari Galeri</string>
+    <string name="ambil_dari_kamera">Ambil dari Kamera</string>
+    <string name="deskripsi_cerita">Deskripsi Cerita</string>
+    <string name="tambah_cerita">Tambah Cerita</string>
+    <string name="capture">Capture</string>
+    <string name="log_in">Log In</string>
+    <string name="no_data">No Data</string>
+    <string name="register">Register</string>
+    <string name="nama">Nama</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="story_image">Story Image</string>
+    <string name="register_failed">Register failed</string>
+    <string name="error">Error: %1$s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
